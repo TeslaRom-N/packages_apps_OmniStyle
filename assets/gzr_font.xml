@@ -17,6 +17,7 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
+    <meta_data creator="Fraz14" />
     <random_header image="gzr_font_1" />
     <random_header image="gzr_font_2" />
     <random_header image="gzr_font_3" />
