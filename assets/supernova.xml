@@ -17,10 +17,10 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="supernova1" />
-    <random_header image="supernova2" />
-    <random_header image="supernova3" />
-    <random_header image="supernova4" />
-    <random_header image="supernova5" />
-    <random_header image="supernova6" />	
+    <random_header image="supernova_1" />
+    <random_header image="supernova_2" />
+    <random_header image="supernova_3" />
+    <random_header image="supernova_4" />
+    <random_header image="supernova_5" />
+    <random_header image="supernova_6" />
 </daylight_headers> 

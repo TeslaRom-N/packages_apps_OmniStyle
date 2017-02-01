@@ -100,7 +100,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".tesla"
+            android:name=".tesla_font"
             android:label="Tesla Font" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
