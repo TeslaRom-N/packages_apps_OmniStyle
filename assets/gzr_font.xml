@@ -27,4 +27,6 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="gzr_font_7" />
     <random_header image="gzr_font_8" />
     <random_header image="gzr_font_9" />
+    <random_header image="gzr_font_10" />
+    <random_header image="gzr_font_11" />
 </daylight_headers> 
